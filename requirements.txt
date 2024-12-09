@@ -2,9 +2,12 @@ telethon
 asyncio
 python-dotenv
 python-telegram-bot==21.0.1
+aiohttp
 telegram
 certifi==2024.2.2
 chardet==5.2.0
+flask
+gunicorn
 idna==3.6
 pyTelegramBotAPI==4.16.1
 requests==2.31.0
