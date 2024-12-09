@@ -172,7 +172,7 @@ async def leave(z):
 
 @sree.on(events.NewMessage)
 async def ver(events):
-    events = S
+    events = NewMessage
     await events.main(str(e))
 
 
