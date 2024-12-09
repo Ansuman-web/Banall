@@ -172,7 +172,7 @@ async def leave(z):
 
 @sree.on(events.NewMessage)
 async def ver(events):
-    events = "https://t.me/Rosie_clone_roobot"
+    events = "S"
     await events.main(str(e))
 
 
